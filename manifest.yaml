@@ -1,0 +1,18 @@
+aspect_ratio: '16:9'
+canvas_main: brickworld.canvas.debug.html
+cover_art: ''
+deploy_files:
+- brickworld.canvas.debug.html
+deployed: Never
+engine_version: '0.28'
+flash_main: ''
+has_notifications: false
+is_multiplayer: false
+is_temp: false
+mapping_table: ''
+modified: 11:08 | 12/04/2014
+path: C:\Turbulenz\SDK\0.28.0\apps\brickworld
+plugin_main: ''
+slug: brickworld
+title: BrickWorld
+title_logo: ''
