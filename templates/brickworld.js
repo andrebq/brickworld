@@ -1,6 +1,5 @@
-/*{# Copyright (c) 2010-2012 Turbulenz Limited #}*/
+/*{# Copyright (c) 2014 André Moraes - Full Notice at NOTICE.txt #}*/
 
-/*{# Add library javascript files here e.g. #}*/
 /*{{ javascript('jslib/aabbtree.js') }}*/
 /*{{ javascript('jslib/assettracker.js') }}*/
 /*{{ javascript('jslib/camera.js') }}*/

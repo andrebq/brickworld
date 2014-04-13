@@ -1,4 +1,4 @@
-// Copyright (c) 2010-2012 Turbulenz Limited
+/*{# Copyright (c) 2014 André Moraes - Full Notice at NOTICE.txt #}*/
 
 /*global TurbulenzEngine: false*/
 /*exported appCreate*/

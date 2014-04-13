@@ -1,3 +1,4 @@
+/*{# Copyright (c) 2014 André Moraes - Full Notice at NOTICE.txt #}*/
 /*exported BrickMap*/
 /*exported Brick*/
 
